@@ -1,15 +1,15 @@
-# Aritim-Light Theme
+# Firefly-Dark Theme
 
-## Aritim-Light: A Light theme for KDE, pleasant to the eyes and perfect for your daily workload
+## Firefly-Dark: A dark theme for KDE, inspired by te
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.com/Mrcuve0/Aritim-Light.svg)](http://hits.dwyl.com/Mrcuve0/Aritim-Light)
+[![HitCount](http://hits.dwyl.com/Mrcuve0/Firefly-Light.svg)](http://hits.dwyl.com/Mrcuve0/Firefly-Light)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Ver%3E0.7/Desktop.png)
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Ver%3E0.7/Busy.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/Desktop.png)
+<!-- ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/Busy.png) -->
 
 **You can find other screenshots [here](https://www.pling.com/p/1290466/).**
 
@@ -39,20 +39,20 @@ Please, refer to the badges "`development`" you can find at the top of each READ
 
 ----
 
-### **AUR Packages**
+<!-- ### **AUR Packages**
 
-* [Aritim-Light for **KDE**](https://aur.archlinux.org/packages/aritim-light-kde/) ([bridnour](https://github.com/bridnour))
-* [Aritim-Light for **GTK**](https://aur.archlinux.org/packages/aritim-light-gtk/) ([bridnour](https://github.com/bridnour))
+* [Firefly-Light for **KDE**](https://aur.archlinux.org/packages/Firefly-light-kde/) ([bridnour](https://github.com/bridnour))
+* [Firefly-Light for **GTK**](https://aur.archlinux.org/packages/Firefly-light-gtk/) ([bridnour](https://github.com/bridnour))
 
-A big **thank you** goes to all the contributors, you are awesome!
+A big **thank you** goes to all the contributors, you are awesome! -->
 
 ----
 
-### **EXTRAS / COMMUNITY THEMES**
+<!-- ### **EXTRAS / COMMUNITY THEMES**
 
-* [Aritim-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/aritim-light/) (By me)
+* [Firefly-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-light/) (By me)
 
-A big **thank you** goes to all the contributors, you are awesome!
+A big **thank you** goes to all the contributors, you are awesome! -->
 
 ----
 

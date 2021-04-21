@@ -1,39 +1,39 @@
-# Aritim-Light-GTK
+# Firefly-Light-GTK
 
-## GTK porting of Aritim-Light-KDE theme 
+## GTK porting of Firefly-Light-KDE theme 
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Paused-yellow.svg)](https://img.shields.io/badge/Development-Paused-yellow.svg)
-[![HitCount](http://hits.dwyl.io/Mrcuve0/Aritim-Light.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Light)
+[![HitCount](http://hits.dwyl.io/Mrcuve0/Firefly-Light.svg)](http://hits.dwyl.io/Mrcuve0/Firefly-Light)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/GTK/screenshots/Desktop.png)
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/GTK/screenshots/Desktop2.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/GTK/screenshots/Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/GTK/screenshots/Desktop2.png)
 
 ### **INSTALLATION**
 
 1. Download code (*Clone or Download* button).
-2. Move your `Aritim-Light-GTK` folder into the `.themes` folder in your home directory.
-3. Select and apply `Aritim-Light-GTK` theme via gnome-tweak-tool.
+2. Move your `Firefly-Light-GTK` folder into the `.themes` folder in your home directory.
+3. Select and apply `Firefly-Light-GTK` theme via gnome-tweak-tool.
 4. [Optional] Papirus Icon theme installation: follow the guide lines from the repo: --> https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 5. Profit
 
 ### **TERMINAL INSTALLATION**
 
 ```sh
-cd /tmp && rm -rf Aritim-Light-GTK &&
-git clone https://github.com/Mrcuve0/Aritim-Light-GTK &&
-mkdir -p ~/.themes && cp -r aritim-Light-gtk/Aritim-Light-GTK* ~/.themes/ &&
-gsettings set org.gnome.desktop.interface gtk-theme "Aritim-Light-GTK"
+cd /tmp && rm -rf Firefly-Light-GTK &&
+git clone https://github.com/Mrcuve0/Firefly-Light-GTK &&
+mkdir -p ~/.themes && cp -r Firefly-Light-gtk/Firefly-Light-GTK* ~/.themes/ &&
+gsettings set org.gnome.desktop.interface gtk-theme "Firefly-Light-GTK"
 ```
 
 ----
 
 ### **AUR Packages**
 
-* [Aritim-Light for **KDE**](https://aur.archlinux.org/packages/aritim-light-kde/) ([bridnour](https://github.com/bridnour))
-* [Aritim-Light for **GTK**](https://aur.archlinux.org/packages/aritim-light-gtk/) ([bridnour](https://github.com/bridnour))
+* [Firefly-Light for **KDE**](https://aur.archlinux.org/packages/Firefly-light-kde/) ([bridnour](https://github.com/bridnour))
+* [Firefly-Light for **GTK**](https://aur.archlinux.org/packages/Firefly-light-gtk/) ([bridnour](https://github.com/bridnour))
 
 A big **thank you** goes to all the contributors, you are awesome!
 
@@ -41,7 +41,7 @@ A big **thank you** goes to all the contributors, you are awesome!
 
 ### **EXTRAS / COMMUNITY THEMES**
 
-* [Aritim-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/aritim-light/) (By me)
+* [Firefly-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-light/) (By me)
 
 A big **thank you** goes to all the contributors, you are awesome!
 
@@ -78,4 +78,4 @@ RAUPWGBKLUJLBLSTAFBLGABDQX9HDZOZRTEODEASFKRPNLNJTYRZLOLAEPENWIYINTLNQHULSBOIWAQZ
 ![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.jpg)
 
 ### FIREFOX THEME
-* [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/aritim-Light/)
+* [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/Firefly-Light/)

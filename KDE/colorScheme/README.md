@@ -1,15 +1,15 @@
-# Aritim-Light Theme
+# Firefly-Light Theme
 
-## Aritim-Light: A theme for KDE, pleasant to the eyes and perfect for your daily workload
+## Firefly-Light: A theme for KDE, pleasant to the eyes and perfect for your daily workload
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.com/Mrcuve0/Aritim-Light.svg)](http://hits.dwyl.com/Mrcuve0/Aritim-Light)
+[![HitCount](http://hits.dwyl.com/Mrcuve0/Firefly-Light.svg)](http://hits.dwyl.com/Mrcuve0/Firefly-Light)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Ver%3E0.7/Desktop.png)
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Ver%3E0.7/Busy.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/Ver%3E0.7/Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/Ver%3E0.7/Busy.png)
 
 **You can find other screenshots [here](https://www.pling.com/p/1290460/).**
 
@@ -49,4 +49,4 @@ RAUPWGBKLUJLBLSTAFBLGABDQX9HDZOZRTEODEASFKRPNLNJTYRZLOLAEPENWIYINTLNQHULSBOIWAQZ
 ![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.jpg)
 
 ### **LICENSES**
-This color-scheme is my proper creation and it is licensed under the [GPLv3 license](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/colorScheme/LICENSE)
+This color-scheme is my proper creation and it is licensed under the [GPLv3 license](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/colorScheme/LICENSE)
