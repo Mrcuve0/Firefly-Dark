@@ -27,8 +27,7 @@ var layout = {
                     "iconSize": "2",
                     "sortMode": "-1"
                 },
-                "/Wallpaper/org.kde.image/General": {
-                    // "Image": "file:///home/sem/Pictures/Wallpapers/Aritim-Light_DEV/05.jpg",
+                "/Wallpaper/org.kde.image/General": {// "Image": "file:///home/sem/Pictures/Wallpapers/Aritim-Light_DEV/05.jpg",
                     "SlidePaths": "/usr/share/wallpapers"
                 }
             },
@@ -60,8 +59,6 @@ var layout = {
                     "sortMode": "-1"
                 },
                 "/Wallpaper/org.kde.image/General": {
-                    // "Image": "file:///home/sem/Pictures/Wallpapers/Aritim-Light_DEV/05.jpg",
-                    "SlidePaths": "/home/sem/.local/share/wallpapers,/usr/share/wallpapers"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
@@ -93,8 +90,6 @@ var layout = {
                     "sortMode": "-1"
                 },
                 "/Wallpaper/org.kde.image/General": {
-                    // "Image": "/home/sem/Pictures/Firefly-Dark/Official/Chrysalis_desktop_butterfly_dark_1920x1080.png",
-                    // "SlidePaths": "/home/sem/.local/share/wallpapers,/usr/share/wallpapers"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
