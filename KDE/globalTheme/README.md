@@ -1,15 +1,15 @@
-# Aritim-Light-KDE
+# Firefly-Light-KDE
 
-## Aritim-Light: A Look-and-Feel theme for KDE, pleasant to the eyes and perfect for your daily workload
+## Firefly-Light: A Look-and-Feel theme for KDE, pleasant to the eyes and perfect for your daily workload
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.com/Mrcuve0/Aritim-Light.svg)](http://hits.dwyl.com/Mrcuve0/Aritim-Light)
+[![HitCount](http://hits.dwyl.com/Mrcuve0/Firefly-Light.svg)](http://hits.dwyl.com/Mrcuve0/Firefly-Light)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Ver%3E0.7/Desktop.png)
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Ver%3E0.7/Busy.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/Ver%3E0.7/Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/Ver%3E0.7/Busy.png)
 
 **You can find other screenshots [here](https://www.pling.com/p/1290466/).**
 
@@ -27,11 +27,11 @@ The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling
 #### **> CLI way**
 
 1. Download the theme from the [OpenDesktop site](https://www.pling.com/p/1290466/)
-2. Move into your Download folder and Install *Aritim-Light-KDE* theme using
+2. Move into your Download folder and Install *Firefly-Light-KDE* theme using
 ```bash
-kpackagetool5 -i Aritim-Light-KDE-master.zip
+kpackagetool5 -i Firefly-Light-KDE-master.zip
 ```
-3. Open `System Settings` --> `Workspace Theme` --> select `Aritim-Light` and check `Use Desktop Layout from theme` if you want to apply the same layout as showed in the screenshots (panels etc ...)
+3. Open `System Settings` --> `Workspace Theme` --> select `Firefly-Light` and check `Use Desktop Layout from theme` if you want to apply the same layout as showed in the screenshots (panels etc ...)
 4. [Optional] Papirus Icon theme installation: follow the guide lines from the repo: --> https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 5. [Optional] SierraBreeze Window Decorations: follow the guide lines from the repo: --> https://github.com/ishovkun/SierraBreeze
 6. Profit
@@ -40,8 +40,8 @@ kpackagetool5 -i Aritim-Light-KDE-master.zip
 
 ### **AUR Packages**
 
-* [Aritim-Light for **KDE**](https://aur.archlinux.org/packages/aritim-light-kde/) ([bridnour](https://github.com/bridnour))
-* [Aritim-Light for **GTK**](https://aur.archlinux.org/packages/aritim-light-gtk/) ([bridnour](https://github.com/bridnour))
+* [Firefly-Light for **KDE**](https://aur.archlinux.org/packages/Firefly-light-kde/) ([bridnour](https://github.com/bridnour))
+* [Firefly-Light for **GTK**](https://aur.archlinux.org/packages/Firefly-light-gtk/) ([bridnour](https://github.com/bridnour))
 
 A big **thank you** goes to all the contributors, you are awesome!
 
@@ -49,7 +49,7 @@ A big **thank you** goes to all the contributors, you are awesome!
 
 ### **EXTRAS / COMMUNITY THEMES**
 
-* [Aritim-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/aritim-light/) (By me)
+* [Firefly-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-light/) (By me)
 
 A big **thank you** goes to all the contributors, you are awesome!
 
@@ -88,11 +88,11 @@ RAUPWGBKLUJLBLSTAFBLGABDQX9HDZOZRTEODEASFKRPNLNJTYRZLOLAEPENWIYINTLNQHULSBOIWAQZ
 
 #### **This Look-and-Feel theme will also install (as dependencies):**
 
-* Color Scheme [Aritim-Light](https://www.opendesktop.org/p/1290460)
+* Color Scheme [Firefly-Light](https://www.opendesktop.org/p/1290460)
 
-* [Aritim-Light Wallpapers](https://www.pling.com/c/1318990)
+* [Firefly-Light Wallpapers](https://www.pling.com/c/1318990)
 
-* [Aritim-Light Aurorae Theme](https://www.pling.com/p/1321086/)
+* [Firefly-Light Aurorae Theme](https://www.pling.com/p/1321086/)
 
 * Plasmoid [Application Title](https://store.kde.org/p/1199712)
 
@@ -105,7 +105,7 @@ RAUPWGBKLUJLBLSTAFBLGABDQX9HDZOZRTEODEASFKRPNLNJTYRZLOLAEPENWIYINTLNQHULSBOIWAQZ
 
 ### **FIREFOX THEME**
 
---> https://addons.mozilla.org/en-US/firefox/addon/aritim-light/
+--> https://addons.mozilla.org/en-US/firefox/addon/Firefly-light/
 
 ### **LICENSE**
-This KDE look-and-feel theme, as well as the related color scheme, is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Aritim-Light/blob/master/KDE/lookAndFeel/LICENSE).
+This KDE look-and-feel theme, as well as the related color scheme, is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Firefly-Light/blob/master/KDE/lookAndFeel/LICENSE).

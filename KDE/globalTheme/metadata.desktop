@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment=Personal tribute to IOTA's Chrysalis launch
+Name=Firefly-Dark
+X-KDE-PluginInfo-Author=Mrcuve0
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=puof@protonmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=Firefly-Dark
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/Mrcuve0
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/XXXXXX,kns://plasma-themes.knsrc/api.kde-look.org/XXXXXX,kns://plasmoids.knsrc/api.kde-look.org/1274218,kns://plasmoids.knsrc/api.kde-look.org/1274975,kns://plasmoids.knsrc/api.kde-look.org/998895,kns://plasmoids.knsrc/api.kde-look.org/998901,kns://plasmoids.knsrc/api.kde-look.org/1313987
+
+### Plasmoids URL Codes List
+# Window Title Applet   --> 1274218
+# Window AppMenu        --> 1274975     (Can only be installed manually, see corresponding GitHub page)
+# Netspeed Widget       --> 998895
+# Event Calendar        --> 998901
+# Advanced Radio Player --> 1313987
