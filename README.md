@@ -1,17 +1,17 @@
 # Firefly-Dark Theme
 
-## Firefly-Dark: A dark theme for KDE, inspired by te
+## Firefly-Dark: A dark theme for KDE, personal tribute to IOTA's Chrysalis launch
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.com/Mrcuve0/Firefly-Light.svg)](http://hits.dwyl.com/Mrcuve0/Firefly-Light)
+[![HitCount](http://hits.dwyl.com/Mrcuve0/Firefly-Dark.svg)](http://hits.dwyl.com/Mrcuve0/Firefly-Dark)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/Desktop.png)
-<!-- ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/Busy.png) -->
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/master/KDE/screenshots/Desktop.png)
+<!-- TODO: ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/master/KDE/screenshots/Busy.png) -->
 
-**You can find other screenshots [here](https://www.pling.com/p/1290466/).**
+<!-- TODO: **You can find other screenshots [here](https://www.pling.com/p/????????/).** -->
 
 ### **REPO ORGANIZATION**
 
@@ -34,23 +34,22 @@ Please, refer to the badges "`development`" you can find at the top of each READ
 3. [![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
 > This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present itselves and really worth the effort. Issues and PR will be probably read but not considered.
 
-*As a general rule*, take in mind that my entire [GitHub profile](https://github.com/Mrcuve0) (themes included!) is based on my sparse time and it is mainly passion-driven. As for now, *my number one priority* is finishing my **Master's Degree in Embedded Systems**: don't panic if I cannot reply to your issue even after a week, I'm probably really busy and I'm making already restless nights.
+*As a general rule*, take in mind that my entire [GitHub profile](https://github.com/Mrcuve0) (themes included!) is based on my sparse time and it is mainly passion-driven.
 
-
-----
+----/
 
 <!-- ### **AUR Packages**
 
-* [Firefly-Light for **KDE**](https://aur.archlinux.org/packages/Firefly-light-kde/) ([bridnour](https://github.com/bridnour))
-* [Firefly-Light for **GTK**](https://aur.archlinux.org/packages/Firefly-light-gtk/) ([bridnour](https://github.com/bridnour))
+* [Firefly-Dark for **KDE**](https://aur.archlinux.org/packages/Firefly-Dark-kde/) ([bridnour](https://github.com/bridnour))
+* [Firefly-Dark for **GTK**](https://aur.archlinux.org/packages/Firefly-Dark-gtk/) ([bridnour](https://github.com/bridnour))
 
 A big **thank you** goes to all the contributors, you are awesome! -->
 
-----
+<!-- ---- -->
 
 <!-- ### **EXTRAS / COMMUNITY THEMES**
 
-* [Firefly-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-light/) (By me)
+* [Firefly-Dark for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-Dark/) (By me)
 
 A big **thank you** goes to all the contributors, you are awesome! -->
 
@@ -85,6 +84,8 @@ bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
 RAUPWGBKLUJLBLSTAFBLGABDQX9HDZOZRTEODEASFKRPNLNJTYRZLOLAEPENWIYINTLNQHULSBOIWAQZZROWQEERYD
 ```
 ![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.jpg)
+
+----
 
 ### **LICENSES**
 For every subfolder you'll find a specific license: many of my projects rely on other's people previous work, each of them with their proper license.
