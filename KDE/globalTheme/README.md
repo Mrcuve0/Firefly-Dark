@@ -8,10 +8,10 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/Ver%3E0.7/Desktop.png)
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/Ver%3E0.7/Busy.png)
+<!-- TODO: ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/main/KDE/screenshots/Ver%3E0.7/Desktop.png) -->
+<!-- TODO: ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/main/KDE/screenshots/Ver%3E0.7/Busy.png) -->
 
-**You can find other screenshots [here](https://www.pling.com/p/1290466/).**
+<!-- TODO: **You can find other screenshots [here](https://www.pling.com/p/1290466/).** -->
 
 ### **INSTALLATION**
 #### **> Recommended way**
@@ -20,13 +20,9 @@ Download the theme directly from the theme manager included in all the KDE-based
 
 * Open `System Settings` --> `Workspace Theme` --> `Get New Look-And-Feel Themes`
 
-The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling.com/p/1290466/) or directly from the theme manager included in all the KDE-based distros:
-
-* Open `System Settings` --> `Colors` --> `Get New Color Schemes`.
-
 #### **> CLI way**
 
-1. Download the theme from the [OpenDesktop site](https://www.pling.com/p/1290466/)
+<!-- TODO: 1. Download the theme from the [OpenDesktop site](https://www.pling.com/p/1290466/) -->
 2. Move into your Download folder and Install *Firefly-Light-KDE* theme using
 ```bash
 kpackagetool5 -i Firefly-Light-KDE-master.zip
@@ -36,7 +32,7 @@ kpackagetool5 -i Firefly-Light-KDE-master.zip
 5. [Optional] SierraBreeze Window Decorations: follow the guide lines from the repo: --> https://github.com/ishovkun/SierraBreeze
 6. Profit
 
-----
+<!-- ----
 
 ### **AUR Packages**
 
@@ -49,11 +45,11 @@ A big **thank you** goes to all the contributors, you are awesome!
 
 ### **EXTRAS / COMMUNITY THEMES**
 
-* [Firefly-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-light/) (By me)
+* [Firefly-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-light/)  (me)
 
 A big **thank you** goes to all the contributors, you are awesome!
 
-----
+---- -->
 
 ### **DONATIONS**
 
@@ -81,31 +77,13 @@ bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
 
 4. I also accept feeless and miner-free cryptocurrencies, here's my **IOTA address**:
 ```
-RAUPWGBKLUJLBLSTAFBLGABDQX9HDZOZRTEODEASFKRPNLNJTYRZLOLAEPENWIYINTLNQHULSBOIWAQZZROWQEERYD
+iota1qrp0r6f69mewngr8x5xsx88d4xzk33mkq6sfwdv5ul2y0wptw5r0ck0r7r4
 ```
-![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.jpg)
+![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png)
 
+<!-- ### **FIREFOX THEME**
 
-#### **This Look-and-Feel theme will also install (as dependencies):**
-
-* Color Scheme [Firefly-Light](https://www.opendesktop.org/p/1290460)
-
-* [Firefly-Light Wallpapers](https://www.pling.com/c/1318990)
-
-* [Firefly-Light Aurorae Theme](https://www.pling.com/p/1321086/)
-
-* Plasmoid [Application Title](https://store.kde.org/p/1199712)
-
-~~* Plasmoid [Crypto Currencies Price](https://store.kde.org/p/1200334)~~
- (removed, high CPU usage when offline)
-
-* Plasmoid [NetSpeed Widget](https://store.kde.org/p/998895)
-
-* Plasmoid [Event Calendar](https://www.pling.com/p/998901/)
-
-### **FIREFOX THEME**
-
---> https://addons.mozilla.org/en-US/firefox/addon/Firefly-light/
+--> https://addons.mozilla.org/en-US/firefox/addon/Firefly-light/ -->
 
 ### **LICENSE**
-This KDE look-and-feel theme, as well as the related color scheme, is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Firefly-Light/blob/master/KDE/lookAndFeel/LICENSE).
+This KDE look-and-feel theme, as well as the related color scheme, is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Firefly-Light/blob/main/KDE/lookAndFeel/LICENSE).

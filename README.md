@@ -8,8 +8,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/master/KDE/screenshots/Desktop.png)
-<!-- TODO: ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/master/KDE/screenshots/Busy.png) -->
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/main/KDE/screenshots/Desktop.png)
+<!-- TODO: ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/main/KDE/screenshots/Busy.png) -->
 
 <!-- TODO: **You can find other screenshots [here](https://www.pling.com/p/????????/).** -->
 
@@ -25,14 +25,14 @@ You'll find in each subfolder a `README.md` containing all the infos regarding:
 5. **Donations**
 6. **(other)**
 
-Please, refer to the badges "`development`" you can find at the top of each README, here's some additional infos:
+Please, refer to the badges "`development`" you can find in each README, here's some additional infos:
 
 1. [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 > This means I'm currently enhancing/fixing the project. I'm open to suggestions and Pull Requests, that will be treated as soon as possible.
 2. [![DevelopmentStatus](https://img.shields.io/badge/Development-Paused-yellow.svg)](https://img.shields.io/badge/Development-Paused-yellow.svg)
 > This means I'm currently not considering the project as a top priority, hence issues and Pull Request will be still treated, but with higher delays. The development status can reach a higher priority ("Ongoing") or a lower one "Stopped" at any time.
 3. [![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
-> This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present itselves and really worth the effort. Issues and PR will be probably read but not considered.
+> This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present themselves and really worth the effort. Issues and PR will be probably read but not considered.
 
 *As a general rule*, take in mind that my entire [GitHub profile](https://github.com/Mrcuve0) (themes included!) is based on my sparse time and it is mainly passion-driven.
 
@@ -49,7 +49,7 @@ A big **thank you** goes to all the contributors, you are awesome! -->
 
 <!-- ### **EXTRAS / COMMUNITY THEMES**
 
-* [Firefly-Dark for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-Dark/) (By me)
+* [Firefly-Dark for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-Dark/)  (me)
 
 A big **thank you** goes to all the contributors, you are awesome! -->
 
@@ -81,9 +81,9 @@ bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
 
 4. I also accept feeless and miner-free cryptocurrencies, here's my **IOTA address**:
 ```
-RAUPWGBKLUJLBLSTAFBLGABDQX9HDZOZRTEODEASFKRPNLNJTYRZLOLAEPENWIYINTLNQHULSBOIWAQZZROWQEERYD
+iota1qrp0r6f69mewngr8x5xsx88d4xzk33mkq6sfwdv5ul2y0wptw5r0ck0r7r4
 ```
-![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.jpg)
+![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png)
 
 ----
 

@@ -8,8 +8,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/GTK/screenshots/Desktop.png)
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/GTK/screenshots/Desktop2.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/main/GTK/screenshots/Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/main/GTK/screenshots/Desktop2.png)
 
 ### **INSTALLATION**
 
@@ -41,7 +41,7 @@ A big **thank you** goes to all the contributors, you are awesome!
 
 ### **EXTRAS / COMMUNITY THEMES**
 
-* [Firefly-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-light/) (By me)
+* [Firefly-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-light/)  (me)
 
 A big **thank you** goes to all the contributors, you are awesome!
 
@@ -73,9 +73,9 @@ bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
 
 4. I also accept feeless and miner-free cryptocurrencies, here's my **IOTA address**:
 ```
-RAUPWGBKLUJLBLSTAFBLGABDQX9HDZOZRTEODEASFKRPNLNJTYRZLOLAEPENWIYINTLNQHULSBOIWAQZZROWQEERYD
+iota1qrp0r6f69mewngr8x5xsx88d4xzk33mkq6sfwdv5ul2y0wptw5r0ck0r7r4
 ```
-![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.jpg)
+![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png)
 
 ### FIREFOX THEME
 * [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/Firefly-Light/)
