@@ -6,7 +6,7 @@ X-KDE-PluginInfo-Author=Mrcuve0
 X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-Email=mrcuve0+themes@posteo.net
 X-KDE-PluginInfo-EnabledByDefault=true
-X-KDE-PluginInfo-License=CC BY-SA 4.0
+X-KDE-PluginInfo-License=GPLv3
 
 # The X-KDE-PluginInfo-Name entry should match the name of the sub-folder in share/plasma/desktoptheme where the SVG files for this theme exist. 
 X-KDE-PluginInfo-Name=Firefly-Dark
