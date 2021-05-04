@@ -8,9 +8,6 @@ widgetStyle=Lightly
 [kdeglobals][KDE]
 widgetStyle=Lightly
 
-[kdeglobals][Icons]
-Theme=Papirus-Dark
-
 [konsolerc][Desktop Entry]
 DefaultProfile=Firefly-Dark.profile
 
