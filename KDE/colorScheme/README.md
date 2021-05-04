@@ -1,20 +1,20 @@
-# Firefly-Light Theme
+# Firefly-Dark Theme
 
-## Firefly-Light: A theme for KDE, pleasant to the eyes and perfect for your daily workload
+## Firefly-Dark: A dark theme for KDE, personal tribute to IOTA's Chrysalis launch
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.com/Mrcuve0/Firefly-Light.svg)](http://hits.dwyl.com/Mrcuve0/Firefly-Light)
+[![HitCount](http://hits.dwyl.com/Mrcuve0/Firefly-Dark.svg)](http://hits.dwyl.com/Mrcuve0/Firefly-Dark)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/Ver%3E0.7/Desktop.png)
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/KDE/screenshots/Ver%3E0.7/Busy.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/master/KDE/screenshots/Desktop.png)
+<!-- TODO: ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/master/KDE/screenshots/Ver%3E0.7/Busy.png) -->
 
-**You can find other screenshots [here](https://www.pling.com/p/1290460/).**
+<!-- TODO: **You can find other screenshots [here](https://www.pling.com/p/1290460/).** -->
 
 ### **INSTALLATION**
-The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling.com/p/1290460/) or directly from the theme manager included in all the KDE-based distros:
+<!-- TODO: The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling.com/p/??????/) or directly from the theme manager included in all the KDE-based distros: -->
 
 * Open `System Settings` --> `Colors` --> `Get New Color Schemes`.
 
@@ -44,9 +44,9 @@ bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
 
 4. I also accept feeless and miner-free cryptocurrencies, here's my **IOTA address**:
 ```
-RAUPWGBKLUJLBLSTAFBLGABDQX9HDZOZRTEODEASFKRPNLNJTYRZLOLAEPENWIYINTLNQHULSBOIWAQZZROWQEERYD
+iota1qrp0r6f69mewngr8x5xsx88d4xzk33mkq6sfwdv5ul2y0wptw5r0ck0r7r4
 ```
-![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.jpg)
+![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png)
 
 ### **LICENSES**
-This color-scheme is my proper creation and it is licensed under the [GPLv3 license](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/master/colorScheme/LICENSE)
+This color-scheme is licensed under the [GPLv3 license](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/master/colorScheme/LICENSE)
