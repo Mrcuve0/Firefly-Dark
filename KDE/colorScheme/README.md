@@ -1,24 +1,16 @@
-# Firefly-Dark Theme
+<!-- # **<p style="text-align: center;">Firefly-Dark Theme</p>** -->
 
-## Firefly-Dark: A dark theme for KDE, personal tribute to IOTA's Chrysalis launch
+# **<p align="center">Firefly-Dark Theme</p>**
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.com/Mrcuve0/Firefly-Dark.svg)](http://hits.dwyl.com/Mrcuve0/Firefly-Dark)
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
+<!-- [![HitCount](http://hits.dwyl.com/Mrcuve0/Firefly-Dark.svg)](http://hits.dwyl.com/Mrcuve0/Firefly-Dark) -->
 
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/main/KDE/screenshots/00-Desktop.png)
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/main/KDE/screenshots/Desktop.png)
-<!-- TODO: ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/main/KDE/screenshots/Ver%3E0.7/Busy.png) -->
+<!-- **You can find other screenshots [here](https://www.pling.com/p/1290460/).** -->
 
-<!-- TODO: **You can find other screenshots [here](https://www.pling.com/p/1290460/).** -->
-
-### **INSTALLATION**
-<!-- TODO: The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling.com/p/??????/) or directly from the theme manager included in all the KDE-based distros: -->
-
-* Open `System Settings` --> `Colors` --> `Get New Color Schemes`.
-
-### **DONATIONS**
+### **💙 DONATIONS**
 
 > I hope that this theme is to your liking and I hope that, as it was in my case, this can become your everyday theme.
 >
@@ -28,25 +20,33 @@
 >
 > Thank you for your time.
 > 
->Mrcuve0
+>**Mrcuve0**
 
 Below you'll find infos on how you can do it:
 
-1. Donate via PayPal [![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
+**1. Cryptocurrencies!**
 
-2. Donate via LiberaPay [![alt text](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mrcuve0/donate)
+  * Here's my **IOTA** address:
+      ```
+      iota1qrp0r6f69mewngr8x5xsx88d4xzk33mkq6sfwdv5ul2y0wptw5r0ck0r7r4
+      ```
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png"/>
+      </p>
 
-3. Here's my **bitcoin address**:
-```
-bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
-```
-![BTC Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/BTCwallet.png)
+  * I also accept **bitcoin**:
+    <!-- ![btc_badge](https://img.shields.io/badge/BTC-bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg-%23F7931A?logo=bitcoin) -->
+      ```
+      bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
+      ```
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Mrcuve0/donations/master/BTCwallet.png"/>
+      </p>
 
-4. I also accept feeless and miner-free cryptocurrencies, here's my **IOTA address**:
-```
-iota1qrp0r6f69mewngr8x5xsx88d4xzk33mkq6sfwdv5ul2y0wptw5r0ck0r7r4
-```
-![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png)
+**2. Or ...**
+   1. Donate via **LiberPay** or **PayPal**
+      * [![alt text](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mrcuve0/donate)
+      * [![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
 
-### **LICENSES**
-This color-scheme is licensed under the [GPLv3 license](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/master/colorScheme/LICENSE)
+### **📎 LICENSES**
+This color-scheme is licensed under the [GPLv3 license](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/main/colorScheme/LICENSE)

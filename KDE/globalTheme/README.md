@@ -1,57 +1,77 @@
-# Firefly-Light-KDE
+<!-- # **<p style="text-align: center;">Firefly-Dark Theme</p>** -->
 
-## Firefly-Light: A Look-and-Feel theme for KDE, pleasant to the eyes and perfect for your daily workload
+# **<p align="center">Firefly-Dark Theme</p>**
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.com/Mrcuve0/Firefly-Light.svg)](http://hits.dwyl.com/Mrcuve0/Firefly-Light)
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
+<!-- [![HitCount](http://hits.dwyl.com/Mrcuve0/Firefly-Dark.svg)](http://hits.dwyl.com/Mrcuve0/Firefly-Dark) -->
 
 
-<!-- TODO: ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/main/KDE/screenshots/Ver%3E0.7/Desktop.png) -->
-<!-- TODO: ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Light/main/KDE/screenshots/Ver%3E0.7/Busy.png) -->
+## **Installation**
 
-<!-- TODO: **You can find other screenshots [here](https://www.pling.com/p/1290466/).** -->
+### **1) 🛑 Install Lightly Theme Style**
+* To match the above screenshots, you must **INSTALL** *Lightly*, which will provide your Plasma desktop the correct Window Decorations and Application Style. To do that, simply follow the installation instructions [on the official Lightly repository](https://github.com/Luwx/Lightly).
 
-### **INSTALLATION**
-#### **> Recommended way**
+* Once Lightly installed, remember to go to:
+`System Settings` --> `Appearance` --> `Application Style` and `Window Decorations` in order to apply it to your system.
 
-Download the theme directly from the theme manager included in all the KDE-based distros:
+* You can install *Firefly-Dark* before or after *Lightly*, just remember to apply both once installed :D
 
-* Open `System Settings` --> `Workspace Theme` --> `Get New Look-And-Feel Themes`
+### **2) 🎯 Install Firefly-Dark Theme**
 
-#### **> CLI way**
+* Firefly-Dark can be installed in one click from the `Settings` page provided by each KDE-based Linux distribution.
 
-<!-- TODO: 1. Download the theme from the [OpenDesktop site](https://www.pling.com/p/1290466/) -->
-2. Move into your Download folder and Install *Firefly-Light-KDE* theme using
-```bash
-kpackagetool5 -i Firefly-Light-KDE-master.zip
-```
-3. Open `System Settings` --> `Workspace Theme` --> select `Firefly-Light` and check `Use Desktop Layout from theme` if you want to apply the same layout as showed in the screenshots (panels etc ...)
-4. [Optional] Papirus Icon theme installation: follow the guide lines from the repo: --> https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
-5. [Optional] SierraBreeze Window Decorations: follow the guide lines from the repo: --> https://github.com/ishovkun/SierraBreeze
-6. Profit
+* Open `System Settings` --> `Appearance` --> `Global Theme` section --> "`Get New Global Themes...`" button. This will automatically install all the theme components (color scheme, plasma style etc...) you can find in this repository.
 
-<!-- ----
+### **3) 🎉 Enjoy!**
+* **Now it's up to you!**
+* I tend to leave the theme as generic as possible to please everyone's likings (and believe me it's not easy 😆), so some visual adjustments may be needed just after installation.
+* Move panels here and there, change wallpapers as you like, the imagination is the only limit!
 
-### **AUR Packages**
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/main/KDE/screenshots/00-Desktop.png)
 
-* [Firefly-Light for **KDE**](https://aur.archlinux.org/packages/Firefly-light-kde/) ([bridnour](https://github.com/bridnour))
-* [Firefly-Light for **GTK**](https://aur.archlinux.org/packages/Firefly-light-gtk/) ([bridnour](https://github.com/bridnour))
+<!-- ![alt text](https://raw.githubusercontent.com/Mrcuve0/Firefly-Dark/main/KDE/screenshots/01-Desktop.png) -->
 
-A big **thank you** goes to all the contributors, you are awesome!
+<!-- TODO: **You can find other screenshots [here](https://www.pling.com/p/1281836/).** -->
 
 ----
 
-### **EXTRAS / COMMUNITY THEMES**
+## **⤵️ For those who want to know more**
 
-* [Firefly-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-light/)  (me)
+### **1) 🔎 Repo Organization**
 
-A big **thank you** goes to all the contributors, you are awesome!
+* You can find everything related to Firefly-Dark in this repository, which is organized in subfolders.
 
----- -->
+* Please, refer to the badges "`development`" you can find in each `README`, below you can find some additional infos.
+* **As a general rule**, take in mind that my entire [GitHub profile](https://github.com/Mrcuve0) (themes included!) is based on my sparse time and it is mainly passion-driven, so expect high delays when dealing with issues or enhancements.
 
-### **DONATIONS**
+  1. [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
+     > This means I'm currently enhancing/fixing the project. I'm open to suggestions and Pull Requests, that will be treated as soon as possible.
+  1. [![DevelopmentStatus](https://img.shields.io/badge/Development-Paused-yellow.svg)](https://img.shields.io/badge/Development-Paused-yellow.svg)
+     > This means I'm currently not considering the project as a top priority, hence issues and Pull Request will be still treated, but with higher delays. The development status can reach a higher priority ("Ongoing") or a lower one "Stopped" at any time.
+  1. [![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
+     > This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present themselves and really worth the effort. Issues and PR will be probably read but not considered.
+
+### **2) 📦 AUR Packages**
+
+<!-- * [Firefly-Dark for **KDE**](https://aur.archlinux.org/packages/Firefly-Dark-kde/) ([bridnour](https://github.com/bridnour))
+* [Firefly-Dark for **GTK**](https://aur.archlinux.org/packages/Firefly-Dark-gtk/) ([bridnour](https://github.com/bridnour))
+
+A big **thank you** goes to all the contributors, you are awesome! -->
+There's nothing to see here for now, check back later!
+
+### **3) 💣 Extras / Community Themes**
+
+<!-- * [Firefly-Dark for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-Dark/)  (me)
+* [Firefly-Dark for **Ulauncher**](https://github.com/TobiasDev/Ulauncher-Themes)  ([Tobias Johansson](https://github.com/TobiasDev))
+* [Firefly-Dark for **Joplin**](https://github.com/TobiasDev/Joplin-Custom-CSS)  ([Tobias Johansson](https://github.com/TobiasDev))
+* [Firefly-Dark for **Mailspring**](https://github.com/kaluk1321/mailspring-Firefly-Dark)  ([Alvaro Oliveira](https://github.com/kaluk1321))
+* [Firefly-Dark for **Spicetify**](https://github.com/kaluk1321/spicetify-Firefly-Dark)  ([Alvaro Oliveira](https://github.com/kaluk1321))
+
+A big **thank you** goes to all the contributors, you are awesome! -->
+There's nothing to see here for now, check back later!
+
+### **4) 💙 DONATIONS**
 
 > I hope that this theme is to your liking and I hope that, as it was in my case, this can become your everyday theme.
 >
@@ -61,29 +81,40 @@ A big **thank you** goes to all the contributors, you are awesome!
 >
 > Thank you for your time.
 > 
->Mrcuve0
+>**Mrcuve0**
 
 Below you'll find infos on how you can do it:
 
-1. Donate via PayPal [![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
+**1. Cryptocurrencies!**
 
-2. Donate via LiberaPay [![alt text](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mrcuve0/donate)
+  * Here's my **IOTA** address:
+      ```
+      iota1qrp0r6f69mewngr8x5xsx88d4xzk33mkq6sfwdv5ul2y0wptw5r0ck0r7r4
+      ```
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png"/>
+      </p>
 
-3. Here's my **bitcoin address**:
-```
-bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
-```
-![BTC Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/BTCwallet.png)
+  * I also accept **bitcoin**:
+    <!-- ![btc_badge](https://img.shields.io/badge/BTC-bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg-%23F7931A?logo=bitcoin) -->
+      ```
+      bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
+      ```
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Mrcuve0/donations/master/BTCwallet.png"/>
+      </p>
 
-4. I also accept feeless and miner-free cryptocurrencies, here's my **IOTA address**:
-```
-iota1qrp0r6f69mewngr8x5xsx88d4xzk33mkq6sfwdv5ul2y0wptw5r0ck0r7r4
-```
-![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png)
+**2. Or ...**
+   1. Donate via **LiberPay** or **PayPal**
+      * [![alt text](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mrcuve0/donate)
+      * [![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
 
-<!-- ### **FIREFOX THEME**
+### **5) 📎 LICENSES**
+For every subfolder you'll find a specific license: many of my projects rely on other's people previous work, each of them with their proper license.
+I always try to be as correct and thankful as possible: if you see some inconsistencies on licenses please be free to open an issue/PR for this repo and explain the problem. I will reply ASAP and fix the issue. The last thing I want to do is to harm someone else's IP. 
 
---> https://addons.mozilla.org/en-US/firefox/addon/Firefly-light/ -->
+Of course, I'm expecting the same treatment in case you'll decide to publish modifications of my projects.
 
-### **LICENSE**
-This KDE look-and-feel theme, as well as the related color scheme, is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Firefly-Light/blob/main/KDE/lookAndFeel/LICENSE).
+Finally, like *Daft Punk* said:
+
+> We Are Human After All

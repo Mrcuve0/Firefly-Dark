@@ -52,23 +52,24 @@
   1. [![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
      > This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present themselves and really worth the effort. Issues and PR will be probably read but not considered.
 
-<!-- ### **2) 📦 AUR Packages**
+### **2) 📦 AUR Packages**
 
-* [Firefly-Dark for **KDE**](https://aur.archlinux.org/packages/Firefly-Dark-kde/) ([bridnour](https://github.com/bridnour))
+<!-- * [Firefly-Dark for **KDE**](https://aur.archlinux.org/packages/Firefly-Dark-kde/) ([bridnour](https://github.com/bridnour))
 * [Firefly-Dark for **GTK**](https://aur.archlinux.org/packages/Firefly-Dark-gtk/) ([bridnour](https://github.com/bridnour))
 
-A big **thank you** goes to all the contributors, you are awesome!
+A big **thank you** goes to all the contributors, you are awesome! -->
+There's nothing to see here for now, check back later!
 
 ### **3) 💣 Extras / Community Themes**
 
-* [Firefly-Dark for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-Dark/)  (me)
+<!-- * [Firefly-Dark for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/Firefly-Dark/)  (me)
 * [Firefly-Dark for **Ulauncher**](https://github.com/TobiasDev/Ulauncher-Themes)  ([Tobias Johansson](https://github.com/TobiasDev))
 * [Firefly-Dark for **Joplin**](https://github.com/TobiasDev/Joplin-Custom-CSS)  ([Tobias Johansson](https://github.com/TobiasDev))
 * [Firefly-Dark for **Mailspring**](https://github.com/kaluk1321/mailspring-Firefly-Dark)  ([Alvaro Oliveira](https://github.com/kaluk1321))
 * [Firefly-Dark for **Spicetify**](https://github.com/kaluk1321/spicetify-Firefly-Dark)  ([Alvaro Oliveira](https://github.com/kaluk1321))
 
 A big **thank you** goes to all the contributors, you are awesome! -->
-
+There's nothing to see here for now, check back later!
 
 ### **4) 💙 DONATIONS**
 
